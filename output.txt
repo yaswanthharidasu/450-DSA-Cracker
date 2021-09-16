@@ -1,0 +1,3 @@
+Brute force: 80
+Top Down: 80
+Bottom Up: 80
