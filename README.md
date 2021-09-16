@@ -1,6 +1,4 @@
 # 450-DSA-Cracker
-***
-
 ### Day-1
 ***
 Completed 4 Problems
